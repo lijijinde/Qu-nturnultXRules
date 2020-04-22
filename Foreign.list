@@ -56,8 +56,6 @@ host-suffix,blog.com,PROXY
 host-suffix,blogcdn.com,PROXY
 host-suffix,blogger.com,PROXY
 host-suffix,blogsmithmedia.com,PROXY
-host-suffix,blogspot.com,PROXY
-host-suffix,blogspot.hk,PROXY
 host-suffix,box.com,PROXY
 host-suffix,box.net,PROXY
 host-suffix,cachefly.net,PROXY
