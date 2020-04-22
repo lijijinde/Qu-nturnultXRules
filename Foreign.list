@@ -269,8 +269,10 @@ host-suffix,pdfexpert.com,PROXY
 host-suffix,periscope.tv,PROXY
 host-suffix,puffinbrowser.com,PROXY
 host-suffix,proxfree.com,PROXY
-host-suffix,pinimg.com,PROXY
 host-suffix,pinboard.in,PROXY
+host-suffix,pinimg.com,PROXY
+user-agent,Pinterest*,PROXY
+host-keyword,pinterest,PROXY
 host-suffix,pinterest.com,PROXY
 host-suffix,pixelmator.com,PROXY
 host-suffix,pixiv.net,PROXY
