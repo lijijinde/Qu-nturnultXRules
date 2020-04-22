@@ -311,6 +311,8 @@ host-suffix,surfeasy.com.au,PROXY
 host-suffix,sugarsync.com,PROXY
 host-suffix,stackoverflow.com,PROXY
 host-suffix,startpage.com,PROXY
+host-suffix,steamcommunity.com,proxy
+host-suffix,steamstatic.com,proxy
 host-suffix,stumbleupon.com,PROXY
 host-suffix,storify.com,PROXY
 host-suffix,starp2p.com,PROXY
