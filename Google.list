@@ -1,9 +1,11 @@
+user-agent,com.google.ios.youtube*,Google
+user-agent,YouTube*,Google
 host-keyword,blogspot,Google
 host-keyword,google,Google
 host-keyword,youtube.com,Google
-host-suffix,abc.xyzGoogle
-host-suffix,admin.recaptcha.netGoogle
-host-suffix,android.comGoogle
+host-suffix,abc.xyz,Google
+host-suffix,admin.recaptcha.net,Google
+host-suffix,android.com,Google
 host-suffix,appspot.com,Google
 host-suffix,blogger.com,Google
 host-suffix,dialogflow.com,Google
@@ -26,6 +28,7 @@ host-suffix,gmodules.com,Google
 host-suffix,godoc.org,Google
 host-suffix,golang.org,Google
 host-suffix,googleapis.com,Google
+host-suffix,googlevideo.com,Google
 host-suffix,gstatic.com,Google
 host-suffix,gvt0.com,Google
 host-suffix,gvt1.com,Google
