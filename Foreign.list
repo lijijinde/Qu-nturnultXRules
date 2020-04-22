@@ -1,5 +1,5 @@
 host-suffix,abpchina.org,PROXY
-host-suffix,abs.twimg.com,PROXY,resolve-on-prox
+host-suffix,abs.twimg.com,PROXY,resolve-on-proxy
 host-suffix,adblockplus.org,PROXY
 host-suffix,adobe.com,PROXY
 host-suffix,akamai.net,PROXY,resolve-on-proxy
