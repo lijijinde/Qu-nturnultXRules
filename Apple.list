@@ -1,0 +1,57 @@
+# > Apple Non-China CDN
+host-suffix, ,hls.itunes.apple.com, AppleGlobal
+host, devimages-cdn.apple.com, AppleGlobal
+host, devstreaming-cdn.apple.com, AppleGlobal
+host, js-cdn.music.apple.com, AppleGlobal
+host, books.itunes.apple.com, AppleGlobal
+host-suffix, ,audio-ssl.itunes.apple.com, AppleGlobal
+host, cdn.apple-cloudkit.com, AppleGlobal
+host-suffix, ,hls-amt.itunes.apple.com, AppleGlobal
+# > AppleNewsMapTOMTOMVersion
+host,gspe1-ssl.ls.apple.com,Applemap
+user-agent,AppleNews*,Applemap
+user-agent,com.apple.news*,Applemap
+host-suffix,apple.news,Applemap
+host,news-client.apple.com,Applemap
+host,news-edge.apple.com,Applemap
+host,news-events.apple.com,Applemap
+host,apple.comscoreresearch.com,Applemap
+# Apple_CDN
+host, aod.itunes.apple.com, AppleCDN
+host, api.smoot.apple.cn, AppleCDN
+host, music.apple.com, AppleCDN
+host, mvod.itunes.apple.com, AppleCDN
+user-agent, com.apple.appstored*, AppleCDN
+host-suffix, mzstatic.com, AppleCDN
+host, iosapps.itunes.apple.com, AppleCDN
+host, osxapps.itunes.apple.com, AppleCDN
+host, supportdownload.apple.com, AppleCDN
+host, appldnld.apple.com, AppleCDN
+host, swcdn.apple.com, AppleCDN
+host, apptrailers.itunes.apple.com, AppleCDN
+host, updates-http.cdn-apple.com, AppleCDN
+host-suffix, ls.apple.com, AppleCDN
+host, gs-loc-cn.apple.com, AppleCDN
+host, www-cdn.icloud.com.akadns.net, AppleCDN
+# Apple_API
+host-suffix,aaplimg.com,AppleAPI
+host-suffix,apple.co,AppleAPI
+host-suffix,apple.com,AppleAPI
+host-suffix,apple-cloudkit.com,AppleAPI
+host-suffix,appsto.re,AppleAPI
+host-suffix,cdn-apple.com,AppleAPI
+host-suffix,icloud.com,AppleAPI
+host-suffix,icloud-content.com,AppleAPI
+host-suffix,itunes.com,AppleAPI
+host-suffix,me.com,AppleAPI
+IP-CIDR,17.0.0.0/8,AppleAPI,no-resolve
+IP-CIDR,63.92.224.0/19,AppleAPI,no-resolve
+IP-CIDR,65.199.22.0/23,AppleAPI,no-resolve
+IP-CIDR,139.178.128.0/18,AppleAPI,no-resolve
+IP-CIDR,144.178.0.0/19,AppleAPI,no-resolve
+IP-CIDR,144.178.36.0/22,AppleAPI,no-resolve
+IP-CIDR,144.178.48.0/20,AppleAPI,no-resolve
+IP-CIDR,192.35.50.0/24,AppleAPI,no-resolve
+IP-CIDR,198.183.17.0/24,AppleAPI,no-resolve
+IP-CIDR,205.180.175.0/24,AppleAPI,no-resolve
+host-suffix,apple.news,AppleAPI
