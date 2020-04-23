@@ -1,12 +1,12 @@
 # > Apple Non-China CDN
-host-suffix, ,hls.itunes.apple.com, AppleGlobal
+host-suffix, hls.itunes.apple.com, AppleGlobal
 host, devimages-cdn.apple.com, AppleGlobal
 host, devstreaming-cdn.apple.com, AppleGlobal
 host, js-cdn.music.apple.com, AppleGlobal
 host, books.itunes.apple.com, AppleGlobal
-host-suffix, ,audio-ssl.itunes.apple.com, AppleGlobal
+host-suffix, audio-ssl.itunes.apple.com, AppleGlobal
 host, cdn.apple-cloudkit.com, AppleGlobal
-host-suffix, ,hls-amt.itunes.apple.com, AppleGlobal
+host-suffix, hls-amt.itunes.apple.com, AppleGlobal
 # > AppleNewsMapTOMTOMVersion
 host,gspe1-ssl.ls.apple.com,Applemap
 user-agent,AppleNews*,Applemap
