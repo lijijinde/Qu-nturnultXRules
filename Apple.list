@@ -1,38 +1,38 @@
 # > Apple Non-China CDN
-host-suffix, hls.itunes.apple.com, AppleGlobal
-host, devimages-cdn.apple.com, AppleGlobal
-host, devstreaming-cdn.apple.com, AppleGlobal
-host, js-cdn.music.apple.com, AppleGlobal
-host, books.itunes.apple.com, AppleGlobal
-host-suffix, audio-ssl.itunes.apple.com, AppleGlobal
-host, cdn.apple-cloudkit.com, AppleGlobal
-host-suffix, hls-amt.itunes.apple.com, AppleGlobal
+host-suffix ,hls.itunes.apple.com, Apple
+host, devimages-cdn.apple.com, Apple
+host, devstreaming-cdn.apple.com, Apple
+host, js-cdn.music.apple.com, Apple
+host, books.itunes.apple.com, Apple
+host-suffix, audio-ssl.itunes.apple.com, Apple
+host, cdn.apple-cloudkit.com, Apple
+host-suffix, hls-amt.itunes.apple.com, Apple
 # > AppleNewsMapTOMTOMVersion
-host,gspe1-ssl.ls.apple.com,Applemap
-user-agent,AppleNews*,Applemap
-user-agent,com.apple.news*,Applemap
-host-suffix,apple.news,Applemap
-host,news-client.apple.com,Applemap
-host,news-edge.apple.com,Applemap
-host,news-events.apple.com,Applemap
-host,apple.comscoreresearch.com,Applemap
+host,gspe1-ssl.ls.apple.com,Apple
+user-agent,AppleNews*,Apple
+user-agent,com.apple.news*,Apple
+host-suffix,apple.news,Apple
+host,news-client.apple.com,Apple
+host,news-edge.apple.com,Apple
+host,news-events.apple.com,Apple
+host,apple.comscoreresearch.com,Apple
 # Apple_CDN
-host, aod.itunes.apple.com, AppleCDN
-host, api.smoot.apple.cn, AppleCDN
-host, music.apple.com, AppleCDN
-host, mvod.itunes.apple.com, AppleCDN
-user-agent, com.apple.appstored*, AppleCDN
-host-suffix, mzstatic.com, AppleCDN
-host, iosapps.itunes.apple.com, AppleCDN
-host, osxapps.itunes.apple.com, AppleCDN
-host, supportdownload.apple.com, AppleCDN
-host, appldnld.apple.com, AppleCDN
-host, swcdn.apple.com, AppleCDN
-host, apptrailers.itunes.apple.com, AppleCDN
-host, updates-http.cdn-apple.com, AppleCDN
-host-suffix, ls.apple.com, AppleCDN
-host, gs-loc-cn.apple.com, AppleCDN
-host, www-cdn.icloud.com.akadns.net, AppleCDN
+host, aod.itunes.apple.com, Apple
+host, api.smoot.apple.cn, Appl
+host, music.apple.com, Apple
+host, mvod.itunes.apple.com, Apple
+user-agent, com.apple.appstored*, Apple
+host-suffix, mzstatic.com, Apple
+host, iosapps.itunes.apple.com, Apple
+host, osxapps.itunes.apple.com, Apple
+host, supportdownload.apple.com, Apple
+host, appldnld.apple.com, Apple
+host, swcdn.apple.com, Apple
+host, apptrailers.itunes.apple.com, Apple
+host, updates-http.cdn-apple.com, Apple
+host-suffix, ls.apple.com, Apple
+host, gs-loc-cn.apple.com, Apple
+host, www-cdn.icloud.com.akadns.net, Apple
 # Apple_API
 host-suffix,aaplimg.com,AppleAPI
 host-suffix,apple.co,AppleAPI
