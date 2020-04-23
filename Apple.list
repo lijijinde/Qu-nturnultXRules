@@ -18,7 +18,7 @@ host,news-events.apple.com,Apple
 host,apple.comscoreresearch.com,Apple
 # Apple_CDN
 host, aod.itunes.apple.com, Apple
-host, api.smoot.apple.cn, Appl
+host, api.smoot.apple.cn, Apple
 host, music.apple.com, Apple
 host, mvod.itunes.apple.com, Apple
 user-agent, com.apple.appstored*, Apple
