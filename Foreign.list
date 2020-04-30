@@ -394,6 +394,7 @@ host-suffix,togetter.com,PROXY
 user-agent,TikTok*,PROXY
 host-suffix,muscdn.com,PROXY
 host-suffix,musical.ly,PROXY
+host-suffix,tiktok.com,PROXY
 host-suffix,tiktokv.com,PROXY
 host-suffix,tiktokcdn.com,PROXY
 host-keyword,-tiktokcdn-com,PROXY
