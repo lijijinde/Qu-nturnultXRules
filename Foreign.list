@@ -312,8 +312,8 @@ host-suffix,surfeasy.com.au,PROXY
 host-suffix,sugarsync.com,PROXY
 host-suffix,stackoverflow.com,PROXY
 host-suffix,startpage.com,PROXY
-host-suffix,steamcommunity.com,proxy
-host-suffix,steamstatic.com,proxy
+host-suffix,steamcommunity.com,PROXY
+host-suffix,steamstatic.com,PROXY
 host-suffix,stumbleupon.com,PROXY
 host-suffix,storify.com,PROXY
 host-suffix,starp2p.com,PROXY
@@ -391,6 +391,15 @@ host-suffix,torproject.org,PROXY
 host-suffix,torcn.com,PROXY
 host-suffix,tokyocn.com,PROXY
 host-suffix,togetter.com,PROXY
+user-agent,TikTok*,PROXY
+host-suffix,muscdn.com,PROXY
+host-suffix,musical.ly,PROXY
+host-suffix,tiktokv.com,PROXY
+host-suffix,tiktokcdn.com,PROXY
+host-keyword,-tiktokcdn-com,PROXY
+host,api-h2.tiktokv.com,PROXY
+host,api2-16-h2.musical.ly,PROXY
+host,api2-19-h2.musical.ly,PROXY
 host-suffix,tinychat.com,PROXY
 host-suffix,timeinc.net,PROXY
 host-suffix,tiny.cc,PROXY
