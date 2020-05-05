@@ -29,6 +29,7 @@ host-suffix,gmodules.com,Google
 host-suffix,godoc.org,Google
 host-suffix,golang.org,Google
 host-suffix,googleapis.com,Google,resolve-on-proxy
+host-suffix,googleusercontent.com,Google,resolve-on-proxy
 host-suffix,gstatic.com,Google
 host-suffix,gvt0.com,Google,resolve-on-proxy
 host-suffix,gvt1.com,Google,resolve-on-proxy
