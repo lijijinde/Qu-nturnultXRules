@@ -1,22 +1,24 @@
 host-suffix ,hls.itunes.apple.com,Apple
 host,devimages-cdn.apple.com,Apple
+host-suffix,xp.apple.com,Apple
+host-suffix,inappcheck.itunes.apple.com,Apple
 host,devstreaming-cdn.apple.com,Apple
 host,js-cdn.music.apple.com,Apple
-host,books.itunes.apple.com,Apple
+host-suffix,books.itunes.apple.com,Apple
 host-suffix,audio-ssl.itunes.apple.com,Apple
-host,cdn.apple-cloudkit.com,Apple
+host-suffix,cdn.apple-cloudkit.com,Apple
 host-suffix,hls-amt.itunes.apple.com,Apple
-host,gspe1-ssl.ls.apple.com,Apple
+host-suffix,gspe1-ssl.ls.apple.com,Apple
 user-agent,AppleNews*,Apple
 user-agent,com.apple.news*,Apple
 host-suffix,apple.news,Apple
 host,news-client.apple.com,Apple
 host,news-edge.apple.com,Apple
 host,news-events.apple.com,Apple
-host,apple.comscoreresearch.com,Apple
-host,aod.itunes.apple.com,Apple
+host-suffix,apple.comscoreresearch.com,Apple
+host-suffix,aod.itunes.apple.com,Apple
 host,api.smoot.apple.cn,Apple
-host,music.apple.com,Apple
+host-suffix,music.apple.com,Apple
 host,mvod.itunes.apple.com,Apple
 user-agent,com.apple.appstored*,Apple
 host-suffix,mzstatic.com,Apple
@@ -39,6 +41,7 @@ host-suffix,cdn-apple.com,Apple
 host-suffix,icloud.com,Apple
 host-suffix,icloud-content.com,Apple
 host-suffix,itunes.com,Apple
+host-suffix,itunes.apple.com,Apple
 host-suffix,me.com,Apple
 IP-CIDR,17.0.0.0/8,Apple
 IP-CIDR,63.92.224.0/19,Apple
@@ -50,4 +53,3 @@ IP-CIDR,144.178.48.0/20,Apple
 IP-CIDR,192.35.50.0/24,Apple
 IP-CIDR,198.183.17.0/24,Apple
 IP-CIDR,205.180.175.0/24,Apple
-host-suffix,apple.news,Apple
