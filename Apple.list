@@ -1,57 +1,21 @@
-# > Apple Non-China CDN
-host-suffix ,hls.itunes.apple.com, Apple
-host, devimages-cdn.apple.com, Apple
-host, devstreaming-cdn.apple.com, Apple
-host, js-cdn.music.apple.com, Apple
-host, books.itunes.apple.com, Apple
-host-suffix, audio-ssl.itunes.apple.com, Apple
-host, cdn.apple-cloudkit.com, Apple
-host-suffix, hls-amt.itunes.apple.com, Apple
-# > AppleNewsMapTOMTOMVersion
-host,gspe1-ssl.ls.apple.com,Apple
-user-agent,AppleNews*,Apple
-user-agent,com.apple.news*,Apple
-host-suffix,apple.news,Apple
-host,news-client.apple.com,Apple
-host,news-edge.apple.com,Apple
-host,news-events.apple.com,Apple
-host,apple.comscoreresearch.com,Apple
-# Apple_CDN
-host, aod.itunes.apple.com, Apple
-host, api.smoot.apple.cn, Apple
-host, music.apple.com, Apple
-host, mvod.itunes.apple.com, Apple
-user-agent, com.apple.appstored*, Apple
-host-suffix, mzstatic.com, Apple
-host, iosapps.itunes.apple.com, Apple
-host, osxapps.itunes.apple.com, Apple
-host, supportdownload.apple.com, Apple
-host, appldnld.apple.com, Apple
-host, swcdn.apple.com, Apple
-host, apptrailers.itunes.apple.com, Apple
-host, updates-http.cdn-apple.com, Apple
-host-suffix, ls.apple.com, Apple
-host, gs-loc-cn.apple.com, Apple
-host, www-cdn.icloud.com.akadns.net, Apple
-# Apple_API
-host-suffix,aaplimg.com,AppleAPI
-host-suffix,apple.co,AppleAPI
-host-suffix,apple.com,AppleAPI
-host-suffix,apple-cloudkit.com,AppleAPI
-host-suffix,appsto.re,AppleAPI
-host-suffix,cdn-apple.com,AppleAPI
-host-suffix,icloud.com,AppleAPI
-host-suffix,icloud-content.com,AppleAPI
-host-suffix,itunes.com,AppleAPI
-host-suffix,me.com,AppleAPI
-IP-CIDR,17.0.0.0/8,AppleAPI
-IP-CIDR,63.92.224.0/19,AppleAPI
-IP-CIDR,65.199.22.0/23,AppleAPI
-IP-CIDR,139.178.128.0/18,AppleAPI
-IP-CIDR,144.178.0.0/19,AppleAPI
-IP-CIDR,144.178.36.0/22,AppleAPI
-IP-CIDR,144.178.48.0/20,AppleAPI
-IP-CIDR,192.35.50.0/24,AppleAPI
-IP-CIDR,198.183.17.0/24,AppleAPI
-IP-CIDR,205.180.175.0/24,AppleAPI
-host-suffix,apple.news,AppleAPI
+host,safebrowsing.urlsec.qq.com,direct
+host,safebrowsing.googleapis.com,direct
+user-agent,com.apple.appstored*,direct
+user-agent,AppStore*,direct
+host-suffix,mzstatic.com,direct
+host-suffix,itunes.apple.com,direct
+host-suffix,icloud.com,direct
+host-suffix,icloud-content.com,direct
+user-agent,cloudd*,direct
+host-suffix,me.com,direct
+host-suffix,aaplimg.com,direct
+host-suffix,cdn20.com,direct
+host-suffix,cdn-apple.com,direct
+host-suffix,akadns.net,direct
+host-suffix,akamaiedge.net,direct
+host-suffix,edgekey.net,direct
+host-suffix,mwcloudcdn.com,direct
+host-suffix,mwcname.com,direct
+host-suffix,apple.com,direct
+host-suffix,apple-cloudkit.com,direct
+host-suffix,apple-mapkit.com,direct
