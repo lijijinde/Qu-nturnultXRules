@@ -1,5 +1,3 @@
-host,safebrowsing.urlsec.qq.com,Apple
-host,safebrowsing.googleapis.com,Apple
 user-agent,com.apple.appstored*,Apple
 user-agent,AppStore*,Apple
 host-suffix,mzstatic.com,Apple
