@@ -68,6 +68,12 @@ host-suffix,polymer-project.org,Google
 host-suffix,waymo.com,Google
 host-suffix,widevine.com,Google
 host-suffix,x.company,Google
+host-suffix,yt.be,Google,resolve-on-proxy
+host-suffix,youtu.be,Google,resolve-on-proxy
+host-suffix,youtubeeducation.com,Google,resolve-on-proxy
+host-suffix,youtubegaming.com,Google,resolve-on-proxy
+host-suffix,ytimg.com,Google,resolve-on-proxy
+host-suffix,xn--ngstr-lra8j.com,Google,resolve-on-proxy
 # > Google IP-CIDR
 ip-cidr,173.194.0.0/16,Google
 ip-cidr,74.125.0.0/16,Google
