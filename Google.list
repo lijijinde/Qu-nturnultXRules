@@ -97,3 +97,4 @@ host-suffix,ssl.gstatic.com,Google
 host-suffix,tools.google.com,Google
 host-suffix,tools.l.google.com,Google
 host-suffix,update.googleapis.com,Google
+host-suffix, ehg-youtube.hitbox.com, reject
