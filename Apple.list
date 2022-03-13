@@ -17,3 +17,9 @@ host-suffix,mwcname.com,Apple
 host-suffix,apple.com,Apple
 host-suffix,apple-cloudkit.com,Apple
 host-suffix,apple-mapkit.com,Apple
+host-suffix, mesu.apple.com, AppleUpdate
+host-suffix, gdmf.apple.com, AppleUpdate
+host-suffix, ocsp.int-x3.letsencrypt.org, AppleUpdate
+host-suffix, ocsp.apple.com, AppleUpdate
+host-suffix, world-gen.g.aaplimg.com, AppleUpdate
+host,safebrowsing.urlsec.qq.com,reject
