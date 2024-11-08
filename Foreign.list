@@ -356,6 +356,7 @@ host-suffix,tapbots.net,proxy
 host-suffix,techcrunch.com,proxy
 host-suffix,techsmith.com,proxy
 host-suffix,twitch.tv,proxy,resolve-on-proxy
+host-suffix,x.com,proxy,resolve-on-proxy
 host-suffix,twtkr.com,proxy,resolve-on-proxy
 host-suffix,twttr.net,proxy,resolve-on-proxy
 host-suffix,twttr.com,proxy,resolve-on-proxy
