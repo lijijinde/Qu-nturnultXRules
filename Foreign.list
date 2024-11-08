@@ -1,4 +1,5 @@
 host-suffix,abpchina.org,proxy
+host-suffix,acast.com,proxy
 host-suffix,abs.twimg.com,proxy,resolve-on-proxy
 host-suffix,adblockplus.org,proxy
 host-suffix,adobe.com,proxy
@@ -9,6 +10,7 @@ host-suffix,amazonaws.com,proxy,resolve-on-proxy
 host-suffix,amplitude.com,proxy
 host-suffix,ampproject.org,proxy
 host-suffix,ancsconf.org,proxy
+host-suffix,anchor.fm,proxy
 host-suffix,anthonycalzadilla.com,proxy
 host-suffix,angularjs.org,proxy
 host-suffix,aol.com,proxy
@@ -34,6 +36,7 @@ host-suffix,awsstatic.com,proxy
 host-suffix,azureedge.net,proxy
 host-suffix,azurewebsites.net,proxy
 host-suffix,bandwagonhost.com,proxy
+host-suffix,buzzsprout.com,proxy
 host-suffix,bbtoystore.com,proxy
 host-suffix,boxun.com,proxy
 host-suffix,bing.com,proxy
@@ -74,6 +77,7 @@ host-suffix,cocoapods.org,proxy
 host-suffix,comodoca.com,proxy
 host-suffix,creativelab5.com,proxy
 host-suffix,crittercism.com,proxy
+host-suffix,csis.org,proxy
 host-suffix,culturalspot.org,proxy
 host-suffix,culturedcode.com,proxy
 host-suffix,d.pr,proxy
@@ -108,6 +112,7 @@ host-suffix,elasticbeanstalk.com,proxy
 host-suffix,engadget.com,proxy
 host-suffix,entrust.net,proxy
 host-suffix,eurekavpt.com,proxy
+host-suffix,euserv.com,proxy
 host-suffix,evernote.com,proxy
 host-suffix,extmatrix.com,proxy
 host-suffix,fabric.io,proxy
@@ -144,6 +149,7 @@ host-suffix,flitto.com,proxy
 host-suffix,foofle.com,proxy
 host-suffix,fzlm.net,proxy
 host-suffix,gabia.net,proxy
+host-suffix,gawker.com,proxy
 host-suffix,geni.us,proxy
 host-suffix,getcloudapp.com,proxy
 host-suffix,gunsamerica.com,proxy
@@ -170,6 +176,7 @@ host-suffix,ggpht.com,proxy
 host-suffix,ghostnoteapp.com,proxy
 host-suffix,gmodules.com,proxy
 host-suffix,gravatar.com,proxy
+host-suffix,gumroad.com,proxy
 host-suffix,gvt0.com,proxy
 host-keyword,google,proxy
 host-keyword,gmail,proxy
@@ -246,6 +253,8 @@ host-suffix,mindnode.com,proxy
 host-suffix,mlssoccer.com,proxy
 host-suffix,mobile01.com,proxy
 host-suffix,modmyi.com,proxy
+host-suffix,moon.fm,proxy
+host-suffix,mozilla.com,proxy
 host-suffix,mp3buscador.com,proxy
 host-suffix,msedge.net,proxy
 host-suffix,mycnnews.com,proxy
@@ -269,6 +278,7 @@ host-suffix,openwrt.org,proxy
 host-suffix,orkut.com,proxy
 host-suffix,osxdaily.com,proxy
 host-suffix,ow.ly,proxy
+host-suffix,omtrdc.net,proxy
 host-suffix,paddleapi.com,proxy
 host-suffix,parallels.com,proxy
 host-suffix,parse.com,proxy
@@ -279,6 +289,8 @@ host-suffix,periscope.tv,proxy
 host-suffix,puffinbrowser.com,proxy
 host-suffix,proxfree.com,proxy
 host-suffix,pinboard.in,proxy
+host-suffix,prolimatech.com,proxy
+host-suffix,perimeterx.net,proxy
 host-suffix,pinimg.com,proxy
 user-agent,Pinterest*,proxy
 host-keyword,pinterest,proxy
@@ -300,6 +312,7 @@ host-suffix,redd.it,proxy
 host-suffix,reddit.com,proxy
 host-suffix,redditmedia.com,proxy
 host-suffix,redditstatic.com,proxy
+host-suffix,redgifs.com,proxy
 host-suffix,rime.im,proxy
 host-suffix,rsf.org,proxy
 host-suffix,scdn.co,proxy
@@ -327,8 +340,10 @@ host-suffix,slideshare.net,proxy
 host-suffix,skype.com,proxy
 host-suffix,sketchappsources.com,proxy
 host-suffix,sidelinesnews.com,proxy
+host-suffix,sinodefenceforum.com,proxy
 host-suffix,servebom.com,proxy
 host-suffix,search.com,proxy
+host-suffix,sentry.io,proxy
 host-suffix,sciencemag.org,proxy
 host-suffix,shadowsocks.org,proxy
 host-suffix,sharethis.com,proxy
@@ -419,6 +434,7 @@ host-suffix,toggleable.com,proxy
 host-suffix,todoist.com,proxy
 host-suffix,trello.com,proxy
 host-suffix,trustasiassl.com,proxy
+host-suffix,tutanota.com,proxy
 host-suffix,tweetdeck.com,proxy
 host-suffix,tweetmarker.net,proxy
 host-suffix,typekit.net,proxy
@@ -441,8 +457,10 @@ host-suffix,unfiltered.news,proxy
 host-suffix,ubertags.com,proxy
 host-suffix,ubnt.com,proxy
 host-suffix,ulyssesapp.com,proxy
+host-suffix,urbandictionary.com,proxy
 host-suffix,urchin.com,proxy
 host-suffix,usertrust.com,proxy
+host-suffix,u5-app.kyatst.com,proxy
 host-suffix,vpngate.net,proxy
 host-suffix,vpnbook.com,proxy
 host-suffix,vpnaccount.org,proxy
@@ -460,6 +478,7 @@ host-suffix,venchina.com,proxy
 host-suffix,vansky.com,proxy
 host-suffix,vanpeople.com,proxy
 host-suffix,van001.com,proxy
+host-suffix,v2ex.com,proxy
 host-suffix,v2ray.com,proxy
 host-suffix,verizonwireless.com,proxy
 host-suffix,vzw.com,proxy
@@ -473,6 +492,7 @@ host-suffix,vivaldi.com,proxy
 host-suffix,vox-cdn.com,proxy
 host-suffix,vsco.co,proxy
 host-suffix,vultr.com,proxy
+host-suffix,vudu.com,proxy
 host-suffix,waze.com,proxy
 host-suffix,wwitv.com,proxy
 host-suffix,wsj.com,proxy
