@@ -9,8 +9,6 @@ host-suffix,microsofttranslator.com,Microsoft
 host-suffix,msauth.net,Microsoft
 host-suffix,msecnd.net,Microsoft
 host-suffix,msocdn.com,Microsoft
-host-suffix,msedge.net,Microsoft
-host-suffix,msn.com,Microsoft
 host-suffix,office.com,Microsoft
 host-suffix,office.net,Microsoft
 host-suffix,office365.com,Microsoft
@@ -25,7 +23,6 @@ host-suffix,windows.com,Microsoft
 host-suffix,windows.net,Microsoft
 host-suffix,xbox.com,Microsoft
 host-suffix,xboxlive.com,Microsoft
-host-suffix, api.cortana.ai,Microsoft
 host-suffix,gitbook.com,proxy
 host-suffix,git.io,Github
 host-suffix,github.io,Github
