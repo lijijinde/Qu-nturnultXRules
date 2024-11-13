@@ -4,13 +4,7 @@ host-keyword,microsoft,Microsoft
 host-keyword,onedrive,Microsoft
 host-suffix,azure.cn,Microsoft
 host-suffix,azure.com,Microsoft
-host-suffix,bing.com,Microsoft
-host-suffix,bing.net,Microsoft
 host-suffix,hotmail.com,Microsoft
-host-suffix,live.com,Microsoft
-host-suffix,live.net,Microsoft
-host-suffix,ms,Microsoft
-host-suffix,msn.com,Microsoft
 host-suffix,microsofttranslator.com,Microsoft
 host-suffix,msauth.net,Microsoft
 host-suffix,msecnd.net,Microsoft
