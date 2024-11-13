@@ -16,6 +16,7 @@ host-suffix,angularjs.org,proxy
 host-suffix,aol.com,proxy
 host-suffix,aolcdn.com,proxy
 host-suffix,appdownloader.net,proxy
+host-suffix,api.cortana.ai,proxy
 host-suffix,appshopper.com,proxy
 host-suffix,appsonplaystore.com,proxy
 host-suffix,appspot.com,proxy,resolve-on-proxy
