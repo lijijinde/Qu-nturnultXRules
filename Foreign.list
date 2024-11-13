@@ -40,6 +40,7 @@ host-suffix,buzzsprout.com,proxy
 host-suffix,bbtoystore.com,proxy
 host-suffix,boxun.com,proxy
 host-suffix,bing.com,proxy
+host-suffix,bing.net,proxy
 host-suffix,bintray.com,proxy
 host-suffix,bit.com,proxy
 host-suffix,bit.ly,proxy
@@ -235,6 +236,8 @@ host-suffix,libsyn.com,proxy
 host-suffix,linode.com,proxy
 host-suffix,lithium.com,proxy
 host-suffix,littlehj.com,proxy
+host-suffix,live.com,proxy
+host-suffix,live.net,proxy
 host-suffix,livefilestore.com,proxy
 host-suffix,llnwd.net,proxy
 host-suffix,linkedin.com,proxy
@@ -257,6 +260,8 @@ host-suffix,modmyi.com,proxy
 host-suffix,moon.fm,proxy
 host-suffix,mozilla.com,proxy
 host-suffix,mp3buscador.com,proxy
+host-suffix,ms,proxy
+host-suffix,msn.com,proxy
 host-suffix,msedge.net,proxy
 host-suffix,mycnnews.com,proxy
 host-suffix,myfontastic.com,proxy
